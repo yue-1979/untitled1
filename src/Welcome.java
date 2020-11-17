@@ -8,6 +8,6 @@ public class Welcome
         Scanner in = new Scanner(System.in);
         System.out.print("What is your name: ");
         String name = in.nextLine();
-        System.out.println(name);//fdasfasfsadfa
+        System.out.println(name);//aaaaaaaaaaaaaa
     }
 }
